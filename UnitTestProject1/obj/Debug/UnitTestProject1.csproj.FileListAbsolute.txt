@@ -1,0 +1,7 @@
+c:\users\nastya\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\nastya\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\nastya\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.dll
+c:\users\nastya\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+c:\users\nastya\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\nastya\documents\visual studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Nastya\Documents\Visual Studio 2013\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
