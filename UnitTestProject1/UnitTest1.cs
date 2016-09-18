@@ -78,7 +78,7 @@ namespace UnitTestProject1
         }
 
 
-        /*
+        /* This test can be done with a list of parameters to check one of the main functionality
          */
         [TestMethod]
         public void CalendarCheck() {
